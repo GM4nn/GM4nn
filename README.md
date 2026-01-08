@@ -9,4 +9,6 @@
 ------------------------------
 
 <h3 align="left">Contactame:</h3>
-[<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/german-alejandro-castellanos-marin-9649511a6/)
+<a href="[https://www.linkedin.com/in/antonio-acevedo-m/](https://www.linkedin.com/in/german-alejandro-castellanos-marin-9649511a6/)">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40"/>
+</a>
