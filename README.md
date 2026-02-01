@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy German Castellanos</h1>
-<h3 align="center">Un apasionado desarrollador Backend, Desarrollador Python, Web Scraping, Data Engineer, ETL con conocimientos basicas de Frontend</h3>
+<h3 align="center">Un apasionado desarrollador Backend, Desarrollador Python, Web Scraping, Data Engineer, ETL con conocimientos basicos de Frontend</h3>
 
 
 ------------------------------
